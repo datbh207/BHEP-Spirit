@@ -16,7 +16,7 @@ This is the code of the `Spirit` device from the [BHEP](https://github.com/datbh
 - `MT3608 2A`: The booster circuit increases 3.7V to 5V to provide enough power for the circuit.
 
 Complete Device:
-![Spirit](https://github.com/user-attachments/assets/3dbfccd0-d7bc-4586-b1fd-a1268e45668b)
+![Spirit](Image/Spirit.jpg)
 
 ## Library
 - [Wire.h](https://www.arduino.cc/reference/en/language/functions/communication/wire/): Allows to communicate with I2C devices.
