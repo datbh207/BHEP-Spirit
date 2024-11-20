@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/9d98dc86-e902-4664-aeb9-d621c2f77926)
 # Title
 
 This is the code of the `Spirit` device from the [BHEP](https://github.com/datbh207/BHEP)  project. Spirit is a device used to measure health by monitoring the following 3 indicators:
